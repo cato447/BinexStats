@@ -29,3 +29,4 @@ for x, y in zip(names, times):
 ax.legend()
 
 plt.show()
+
